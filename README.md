@@ -1,9 +1,6 @@
 SIH_HOCRUX 
 
-Welcome! This canvas contains everything you asked for: a detailed README ready to drop into the repo, plus a click-by-click GitHub web interface guide to prepare the repository for team handoff, and a short checklist for a final sanity-check before sharing.
 
-
----
 
 📘 README.md 
 
